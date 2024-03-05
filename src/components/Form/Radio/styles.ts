@@ -25,9 +25,6 @@ export const Container = styled.div`
     border-color: ${({theme}) => theme.colors.purple};
   }
 
-  input {
-    display: none;
-  }
 
   svg {
     color: ${({theme}) => theme.colors.purple};
